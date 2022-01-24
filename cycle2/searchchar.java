@@ -1,5 +1,5 @@
 import java.util.*;
-class searchchar.java
+class searchchar
 {
 	public static void main(String args[])
 	{
