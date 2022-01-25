@@ -35,7 +35,7 @@ class Student
         System.out.println("Roll number:"+rollno);
         for(i=0;i<5;i++)
         {
-            System.out.println("Marks of subject "+(i+1)+" is "+m[i]); 
+            System.out.println("Mark of subject "+(i+1)+" is "+m[i]); 
         }
     }
 }
