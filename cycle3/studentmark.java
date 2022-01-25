@@ -30,7 +30,7 @@ class Student
     }
     void Display()
     {
-        System.out.println("The entered list is:");
+        System.out.println("The given list is:");
         System.out.println("Name:"+name);
         System.out.println("Roll number:"+rollno);
         for(i=0;i<5;i++)
