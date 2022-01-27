@@ -34,4 +34,4 @@ class areashape
                System.out.println("Area of a triangle = "+(0.5*c*h));
           }
       }
-	  }
+}
